@@ -1,2 +1,2 @@
-# codox-environment
-Reusable Codox environment for Clojure documentation
+# codex-environment
+Reusable Codex environment for Clojure documentation
